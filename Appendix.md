@@ -32,7 +32,7 @@
 * Potassium, Sodium and WBC minimum
 <img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_5.png" alt="Minmax figure results_21" style="width: 800px;"/>
 
-** Maximal values **
+**Maximal values**
 * Albumin, Bicarbonate and BUN maximum
 <img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_6.png" alt="Minmax figure results_1" style="width: 800px;"/>
 
