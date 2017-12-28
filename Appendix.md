@@ -13,3 +13,37 @@
 **Appendix**
 
 >For each stay, we extracted worst first day results for a panel of laboratory tests routinely ordered for ICU patients. We focused on clinically relevant laboratory values: minimum for albumin, ionized calcium, hemoglobin, and platelets; maximum for creatinine and lactate; and both minimum and maximum for bicarbonate, calcium, magnesium, phosphate, potassium, sodium, and white blood cell count.
+
+** Results **
+
+** Minimal values **
+* Albumin, Bicarbonate and BUN minimum
+<img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_1.png" alt="Minmax figure results_1" style="width: 800px;"/>
+
+* Calcium, Chloride and Creatinine minimum
+<img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_2.png" alt="Minmax figure results_21" style="width: 800px;"/>
+
+* Freecalcium, hemoglobin and lactate minimum
+<img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_3.png" alt="Minmax figure results_21" style="width: 800px;"/>
+
+* Magnesium, Phosphate and Platelet minimum
+<img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_4.png" alt="Minmax figure results_21" style="width: 800px;"/>
+
+* Potassium, Sodium and WBC minimum
+<img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_5.png" alt="Minmax figure results_21" style="width: 800px;"/>
+
+** Maximal values **
+* Albumin, Bicarbonate and BUN maximum
+<img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_6.png" alt="Minmax figure results_1" style="width: 800px;"/>
+
+* Calcium, Chloride and Creatinine maximum
+<img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_7.png" alt="Minmax figure results_21" style="width: 800px;"/>
+
+* Freecalcium, hemoglobin and lactate maximum
+<img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_8.png" alt="Minmax figure results_21" style="width: 800px;"/>
+
+* Magnesium, Phosphate and Platelet maximum
+<img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_9.png" alt="Minmax figure results_21" style="width: 800px;"/>
+
+* Potassium, Sodium and WBC maximum
+<img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_10.png" alt="Minmax figure results_21" style="width: 800px;"/>
