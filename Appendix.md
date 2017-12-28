@@ -14,9 +14,9 @@
 
 >For each stay, we extracted worst first day results for a panel of laboratory tests routinely ordered for ICU patients. We focused on clinically relevant laboratory values: minimum for albumin, ionized calcium, hemoglobin, and platelets; maximum for creatinine and lactate; and both minimum and maximum for bicarbonate, calcium, magnesium, phosphate, potassium, sodium, and white blood cell count.
 
-** Results **
+**Results**
 
-** Minimal values **
+**Minimal values**
 * Albumin, Bicarbonate and BUN minimum
 <img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_1.png" alt="Minmax figure results_1" style="width: 800px;"/>
 
