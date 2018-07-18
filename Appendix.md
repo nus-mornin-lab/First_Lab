@@ -19,31 +19,41 @@
 **Minimal values**
 * Albumin, Bicarbonate and BUN minimum
 <img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_1.png" alt="Minmax figure results_1" style="width: 800px;"/>
+<img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_11.png" alt="Minmax figure results_1" style="width: 800px;"/>
 
 * Calcium, Chloride and Creatinine minimum
 <img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_2.png" alt="Minmax figure results_21" style="width: 800px;"/>
+<img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_12.png" alt="Minmax figure results_1" style="width: 800px;"/>
 
 * Freecalcium, hemoglobin and lactate minimum
 <img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_3.png" alt="Minmax figure results_21" style="width: 800px;"/>
+<img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_13.png" alt="Minmax figure results_1" style="width: 800px;"/>
 
 * Magnesium, Phosphate and Platelet minimum
 <img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_4.png" alt="Minmax figure results_21" style="width: 800px;"/>
+<img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_14.png" alt="Minmax figure results_1" style="width: 800px;"/>
 
 * Potassium, Sodium and WBC minimum
 <img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_5.png" alt="Minmax figure results_21" style="width: 800px;"/>
+<img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_15.png" alt="Minmax figure results_1" style="width: 800px;"/>
 
 **Maximal values**
 * Albumin, Bicarbonate and BUN maximum
 <img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_6.png" alt="Minmax figure results_1" style="width: 800px;"/>
+<img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_16.png" alt="Minmax figure results_1" style="width: 800px;"/>
 
 * Calcium, Chloride and Creatinine maximum
 <img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_7.png" alt="Minmax figure results_21" style="width: 800px;"/>
+<img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_17.png" alt="Minmax figure results_1" style="width: 800px;"/>
 
 * Freecalcium, hemoglobin and lactate maximum
 <img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_8.png" alt="Minmax figure results_21" style="width: 800px;"/>
+<img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_18.png" alt="Minmax figure results_1" style="width: 800px;"/>
 
 * Magnesium, Phosphate and Platelet maximum
 <img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_9.png" alt="Minmax figure results_21" style="width: 800px;"/>
+<img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_19.png" alt="Minmax figure results_1" style="width: 800px;"/>
 
 * Potassium, Sodium and WBC maximum
 <img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_10.png" alt="Minmax figure results_21" style="width: 800px;"/>
+<img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_20.png" alt="Minmax figure results_1" style="width: 800px;"/>
