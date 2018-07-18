@@ -40,11 +40,11 @@
 **Maximal values**
 * Albumin, Bicarbonate and BUN maximum
 <img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_6.png" alt="Minmax figure results_1" style="width: 800px;"/>
-<img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_16.png" alt="Minmax figure results_1" style="width: 800px;"/>
+<img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_20.png" alt="Minmax figure results_1" style="width: 800px;"/>
 
 * Calcium, Chloride and Creatinine maximum
 <img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_7.png" alt="Minmax figure results_21" style="width: 800px;"/>
-<img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_17.png" alt="Minmax figure results_1" style="width: 800px;"/>
+<img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_19.png" alt="Minmax figure results_1" style="width: 800px;"/>
 
 * Freecalcium, hemoglobin and lactate maximum
 <img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_8.png" alt="Minmax figure results_21" style="width: 800px;"/>
@@ -52,8 +52,8 @@
 
 * Magnesium, Phosphate and Platelet maximum
 <img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_9.png" alt="Minmax figure results_21" style="width: 800px;"/>
-<img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_19.png" alt="Minmax figure results_1" style="width: 800px;"/>
+<img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_17.png" alt="Minmax figure results_1" style="width: 800px;"/>
 
 * Potassium, Sodium and WBC maximum
 <img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_10.png" alt="Minmax figure results_21" style="width: 800px;"/>
-<img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_20.png" alt="Minmax figure results_1" style="width: 800px;"/>
+<img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/minmax_16.png" alt="Minmax figure results_1" style="width: 800px;"/>
