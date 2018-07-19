@@ -1,4 +1,4 @@
-### Apendix
+### Appendix
 #### A novel strategy for interpreting laboratory values in intensive care unit patients: What is normal in the era of precision medicine?
 
 
