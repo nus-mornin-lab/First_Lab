@@ -27,7 +27,7 @@
 **Results**
 
 **Missing Values**
-*Summary of the percentages of missing values for various lab test results. *
+* Summary of the percentages of missing values for various lab test results. *
 <img src="https://raw.githubusercontent.com/nus-mornin-lab/First_Lab/master/Results/missing.png" alt="Minmax figure results_1" style="width: 800px;"/>
 
 **Minimal values**
