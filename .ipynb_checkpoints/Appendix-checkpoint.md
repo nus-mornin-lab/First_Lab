@@ -22,7 +22,7 @@
 >Conclusions: The standard reference range of laboratory values obtained from healthy volunteers differs from the analogous range generated from ICU patient data. Laboratory data interpretation may benefit from greater consideration of clinically contextual and outcome-related factors. 
 
 
-**Missing Valuesx**
+**Missing Values**
 
 >For each ICU stay, we extracted worst first day results for a panel of laboratory tests routinely ordered for ICU patients. Missing data in laboratory tests was handled as follows: if a patient had values for all the tests except albumin, the patient was included in all analyses except that for albumin. The proportion of patients missing each lab test are shown in the following figure. Albumin was ordered for only 41% of patients; free (ionized) calcium for 50%; serum lactate for 60%; with the remainder of the study laboratory tests ordered for more than 80% of patients.
 
